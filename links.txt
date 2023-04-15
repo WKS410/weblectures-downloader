@@ -1,0 +1,5 @@
+IR
+https://weblectures.ru.nl/api/v2/medias/modes/?oid=v12641e2af9620fwoqax&html5=webm_ogg_ogv_oga_mp4_m4a_mp3_m3u8&yt=yt&embed=embed&_=1679616968218
+https://weblectures.ru.nl/api/v2/medias/modes/?oid=v12641dc0295aqm33vr8&html5=webm_ogg_ogv_oga_mp4_m4a_mp3_m3u8&yt=yt&embed=embed&_=1679617006117
+https://weblectures.ru.nl/api/v2/medias/modes/?oid=v126419293c647xdfkr6&html5=webm_ogg_ogv_oga_mp4_m4a_mp3_m3u8&yt=yt&embed=embed&_=1679617075885
+https://weblectures.ru.nl/api/v2/medias/modes/?oid=v12641e95c9b2byli2ku&html5=webm_ogg_ogv_oga_mp4_m4a_mp3_m3u8&yt=yt&embed=embed&_=1679617103650
